@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/cosmicadventure/static/css/main.f855e6bc.css",
+    "main.js": "/cosmicadventure/static/js/main.8ad08c2d.js",
+    "static/js/453.76cb228e.chunk.js": "/cosmicadventure/static/js/453.76cb228e.chunk.js",
+    "static/media/logo.svg": "/cosmicadventure/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/cosmicadventure/index.html",
+    "main.f855e6bc.css.map": "/cosmicadventure/static/css/main.f855e6bc.css.map",
+    "main.8ad08c2d.js.map": "/cosmicadventure/static/js/main.8ad08c2d.js.map",
+    "453.76cb228e.chunk.js.map": "/cosmicadventure/static/js/453.76cb228e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.8ad08c2d.js"
+  ]
+}
