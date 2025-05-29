@@ -12,7 +12,7 @@ function App() {
       {page === "start" && <HomePage onStart={startQuiz} />}
       {page === "quiz" && (
         <div className="quiz-page">
-          <h2>This is the Quiz Page! There will be updates coming soon.</h2>
+          <h2>This is the Quiz Page! There will be updates coming to this page soon.</h2>
         </div>
       )}
     </div>
